@@ -44,7 +44,7 @@ Now, its time for me to uncover those in front of you
 ---
 
 ### 🖼️ Dashboard Preview
-
+![migration](https://github.com/priyankasaha-bit/Australian-Migration-Settlement-Trends/blob/main/Screenshot_Migration.png?raw=true)
 
 ---
 
