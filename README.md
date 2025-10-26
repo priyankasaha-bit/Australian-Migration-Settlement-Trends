@@ -57,4 +57,4 @@ https://drive.google.com/file/d/1bSdRu3cPXoZLGqP4z-TlK3W26mS5Ril6/view?usp=shari
 ### 💬 Created by
 
  **Priyanka Saha**, Data Analyst with expertise in Tableau and Excel — passionate about exploring migration, policy, and social-impact data through visual storytelling.  
-📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/
+📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/details/projects/
